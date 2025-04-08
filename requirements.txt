@@ -1,2 +1,2 @@
 flask
-prometheus_client
+kafka-python
